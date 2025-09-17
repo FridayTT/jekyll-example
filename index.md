@@ -4,7 +4,7 @@ title: Welcome Home!
 excerpt: This is a test excerpt
 header:
   overlay_image: /assets/images/sea.jpg
-  image_description: "A description of the image"
+  caption: "A description of the image"
   actions:
     - label: "Learn More"
       url: /about
