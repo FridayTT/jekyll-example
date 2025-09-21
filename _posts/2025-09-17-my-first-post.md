@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: splash
 title: My Second Post
-author_profile: true
+
 
 ---
 
