@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: collection
 title: My Second Post
 
 

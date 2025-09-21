@@ -11,5 +11,3 @@ header:
       url: /about
   
 ---
-
-# This my home page  
