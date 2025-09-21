@@ -1,6 +1,7 @@
 main:
   - title: "About"
     url: /about
+    author_profile: true
 
   - title: "History"
     url: /history
