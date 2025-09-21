@@ -1,6 +1,7 @@
 ---
 title: About Maris Tower
 layout: single
+author_profile: true
 ---
 
 Rising proudly on the edge of the sea, Maris Tower has stood for centuries as both a guardian of sailors and a symbol of cultural unity. Built of stone that glimmers in the sunlight, the tower has guided travelers across stormy waters, offering them hope and safety as they approached the harbor.
