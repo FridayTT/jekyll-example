@@ -1,5 +1,5 @@
 ---
-title: History
+title: History of Maris Tower
 layout: single
 author_profile: true
 ---
