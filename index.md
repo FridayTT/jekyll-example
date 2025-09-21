@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Learn More"
       url: /about
-  overlay_fliter: rgba(199, 10, 246, 0.5)
+  overlay_fliter: rgba(199, 10, 246, 1)
 ---
 
 # This my home page  

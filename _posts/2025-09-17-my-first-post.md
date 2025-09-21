@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My First Post
+title: My Second Post
 author_profile: true
 
 ---
