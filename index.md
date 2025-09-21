@@ -8,6 +8,6 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   actions:
     - label: "Learn More"
-      url: /about
+      url: /history
   
 ---
