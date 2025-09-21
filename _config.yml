@@ -3,6 +3,7 @@ author :
   name : Emirhan Sen
   email : esen@stlawu.edu
   github : FridayTT
+  avatar: /assets/images/profile-picture.jpg
 
 url: "https://FridayTT.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
