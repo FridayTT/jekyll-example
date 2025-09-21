@@ -5,7 +5,7 @@ excerpt: Guardian of the Waves.
 header:
   overlay_image: /assets/images/sea.jpg
   caption: "A description of the image"
-  overlay_filter: rgba(199, 10, 246, 0.5)
+  overlay_filter: rgba(216, 93, 247, 0.3)
   actions:
     - label: "Learn More"
       url: /about
