@@ -1,7 +1,7 @@
 ---
 title: History
 layout: single
-
+author_profile: true
 ---
 
 The story of Maris Tower begins more than seven centuries ago, when coastal merchants and fishermen needed a beacon to guide them safely back to the harbor. Constructed from pale stone quarried in the nearby cliffs, **the tower first served as a lighthouse**, its fires visible for miles across the sea.
