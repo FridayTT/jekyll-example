@@ -3,22 +3,10 @@ main:
     url: /history
     author_profile: true
 
-  - title: "About"
-    url: /about
+  - title: "Activities"
+    url: /activities
     author_profile: true
 
-  - title: "Results"
-    url: /results
-    author_profile: true
-  
-  - title: "Gallery"
-    url: /gallery
-    author_profile: true
-
-  - title: "Sponsors"
-    url: /sponsors
-    author_profile: true
-
-  - title: "Contact"
-    url: /contact
+  - title: "Dining"
+    url: /dining
     author_profile: true
